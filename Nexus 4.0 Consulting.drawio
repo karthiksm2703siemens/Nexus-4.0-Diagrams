@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8" pages="2">
   <diagram name="Nexus Tasks - Life Cycle" id="6e8KwfxeOu-7-q02qla4">
     <mxGraphModel dx="1793" dy="1758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -241,146 +241,146 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z-xG8MspIrH-LtgVyZ71" name="BAPI Posting">
-    <mxGraphModel dx="2785" dy="1115" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2388" dy="892" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-432" y="500" width="250" height="329" as="geometry" />
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-539" y="300" width="250" height="329" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-2" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;3rd Party Managed Services&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-2" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;3rd Party Managed Services&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="220" y="260" width="680" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-3" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-20" y="316" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-4" value="Nexus Expense&lt;div&gt;Claim&amp;nbsp; App&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="GIMjqsVZ1iljGTdgzD-q-3">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-4" value="Nexus Expense&lt;div&gt;Claim&amp;nbsp; App&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="GIMjqsVZ1iljGTdgzD-q-3" vertex="1">
           <mxGeometry width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pyze.com/wp-content/uploads/2021/03/mendix-logo-1.png;" vertex="1" parent="GIMjqsVZ1iljGTdgzD-q-3">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pyze.com/wp-content/uploads/2021/03/mendix-logo-1.png;" parent="GIMjqsVZ1iljGTdgzD-q-3" vertex="1">
           <mxGeometry x="90" y="100" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-6" value="" style="group;align=center;" vertex="1" connectable="0" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-6" value="" style="group;align=center;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="240" y="316" width="120" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-7" value="Nexus&amp;nbsp;&lt;div&gt;Utility&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="GIMjqsVZ1iljGTdgzD-q-6">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-7" value="Nexus&amp;nbsp;&lt;div&gt;Utility&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="GIMjqsVZ1iljGTdgzD-q-6" vertex="1">
           <mxGeometry width="120" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pyze.com/wp-content/uploads/2021/03/mendix-logo-1.png;" vertex="1" parent="GIMjqsVZ1iljGTdgzD-q-6">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pyze.com/wp-content/uploads/2021/03/mendix-logo-1.png;" parent="GIMjqsVZ1iljGTdgzD-q-6" vertex="1">
           <mxGeometry x="90" y="74" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-9" value="REST CALL - POST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-9" value="REST CALL - POST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="105" y="316" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-10" value="ACK." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-10" value="ACK." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="145" y="354" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://swimburger.net/media/ppnn3pcl/azure.png;" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://swimburger.net/media/ppnn3pcl/azure.png;" parent="1" vertex="1">
           <mxGeometry x="510" y="311" width="109" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-12" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=1.032;entryY=0.92;entryDx=0;entryDy=0;startFill=0;entryPerimeter=0;" edge="1" parent="1" target="GIMjqsVZ1iljGTdgzD-q-9">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-12" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=1.032;entryY=0.92;entryDx=0;entryDy=0;startFill=0;entryPerimeter=0;" parent="1" target="GIMjqsVZ1iljGTdgzD-q-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="344" as="sourcePoint" />
             <mxPoint x="350" y="556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.007;exitY=0.427;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GIMjqsVZ1iljGTdgzD-q-7">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.007;exitY=0.427;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="GIMjqsVZ1iljGTdgzD-q-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="606" as="sourcePoint" />
             <mxPoint x="100" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-14" value="BAPI Requests" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-14" value="BAPI Requests" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=6;" parent="1" vertex="1">
           <mxGeometry x="282.5" y="460" width="35" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GIMjqsVZ1iljGTdgzD-q-14">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="GIMjqsVZ1iljGTdgzD-q-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="406" as="sourcePoint" />
             <mxPoint x="300" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="330" as="sourcePoint" />
             <mxPoint x="360" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-17" value="Polling For Pending&amp;nbsp;&lt;div&gt;Requests&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-17" value="Polling For Pending&amp;nbsp;&lt;div&gt;Requests&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="370" y="290" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.06;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GIMjqsVZ1iljGTdgzD-q-7">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.06;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="GIMjqsVZ1iljGTdgzD-q-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="364.8" y="350" as="sourcePoint" />
             <mxPoint x="509.99999999999983" y="351.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-19" value="Pending BAPI&amp;nbsp;&lt;div&gt;Requests&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-19" value="Pending BAPI&amp;nbsp;&lt;div&gt;Requests&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="385" y="346" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2023/07/SAP-Logo.png;" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2023/07/SAP-Logo.png;" parent="1" vertex="1">
           <mxGeometry x="760" y="311" width="140" height="78.75" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-21" value="BAPI Call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-21" value="BAPI Call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="660" y="324" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="GIMjqsVZ1iljGTdgzD-q-20">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="GIMjqsVZ1iljGTdgzD-q-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="350" as="sourcePoint" />
             <mxPoint x="530" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="GIMjqsVZ1iljGTdgzD-q-20">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="GIMjqsVZ1iljGTdgzD-q-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="460" as="sourcePoint" />
             <mxPoint x="620" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-24" value="BAPI Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-24" value="BAPI Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="645" y="370" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="GIMjqsVZ1iljGTdgzD-q-11">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;dashed=1;" parent="1" source="GIMjqsVZ1iljGTdgzD-q-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="460" as="sourcePoint" />
             <mxPoint x="370" y="393" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-26" value="BAPI Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-26" value="BAPI Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="385" y="390" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" target="GIMjqsVZ1iljGTdgzD-q-7">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" parent="1" target="GIMjqsVZ1iljGTdgzD-q-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="394" as="sourcePoint" />
             <mxPoint x="510" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-28" value="Status Polling" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-28" value="Status Polling" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="125" y="390" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-29" value="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-29" value="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="160" y="300" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-30" value="2" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-30" value="2" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="190" y="364" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-31" value="3" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-31" value="3" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="430" y="270" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-32" value="4" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-32" value="4" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="475" y="359" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-33" value="5" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-33" value="5" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="690" y="310" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-34" value="6" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-34" value="6" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="690" y="400" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-35" value="7" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-35" value="7" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="425" y="420" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-36" value="8" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-36" value="8" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="160" y="414" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-37" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#000066&quot;&gt;Nexus BAPI Posting (Understanding Only)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;1. The Nexus process application consumes the REST API for BAPI Posting.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;2. Unique reference number from the utility module is returned to the process application. An entry is made into the Nexus utility DB with the BAP Requests parameter. The status is marked &#39;Pending.&#39;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;3. Azure service retrieves all the Pending BAPI requests from Nexus Utility repository.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;4. Nexus utility retrieves all pending BAPI requests and pass to Azure service.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;5. Azure makes call to SAP system with specific BAPI Details.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;6. Azure service receives the BAPI response from SAP system.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;7. The BAPI response is pushed into Nexus utility module for storage.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;8. The Nexus application which will be polling for SAP response retrieves the BAPI response data from Nexus Utility.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: right;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;i&gt;** High level Understanding only.&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=#1d1c1b;" vertex="1" parent="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-37" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#000066&quot;&gt;Nexus BAPI Posting (Understanding Only)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;1. The Nexus process application consumes the REST API for BAPI Posting.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;2. Unique reference number from the utility module is returned to the process application. An entry is made into the Nexus utility DB with the BAP Requests parameter. The status is marked &#39;Pending.&#39;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;3. Azure service retrieves all the Pending BAPI requests from Nexus Utility repository.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;4. Nexus utility retrieves all pending BAPI requests and pass to Azure service.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;5. Azure makes call to SAP system with specific BAPI Details.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;6. Azure service receives the BAPI response from SAP system.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;7. The BAPI response is pushed into Nexus utility module for storage.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;8. The Nexus application which will be polling for SAP response retrieves the BAPI response data from Nexus Utility.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: right;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;i&gt;** High level Understanding only.&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=#1d1c1b;" parent="1" vertex="1">
           <mxGeometry x="-20" y="1175" width="930" height="360" as="geometry" />
         </mxCell>
       </root>
