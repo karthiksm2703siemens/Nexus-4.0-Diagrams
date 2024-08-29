@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z-xG8MspIrH-LtgVyZ71" name="BAPI Posting">
-    <mxGraphModel dx="1381" dy="103" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1404" dy="116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,29 +269,20 @@
         <mxCell id="GIMjqsVZ1iljGTdgzD-q-19" value="Pending BAPI&amp;nbsp;&lt;div&gt;Requests&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-23" y="353" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2023/07/SAP-Logo.png;" parent="1" vertex="1">
-          <mxGeometry x="1495" y="334" width="140" height="78.75" as="geometry" />
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-21" value="RPC -&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;BAPI Call&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="335" y="300" width="105" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-21" value="BAPI Call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1395" y="347" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="GIMjqsVZ1iljGTdgzD-q-20" edge="1">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" target="quk_8OWWMuUo5t2t7b0N-22" edge="1" source="quk_8OWWMuUo5t2t7b0N-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1355" y="373" as="sourcePoint" />
-            <mxPoint x="1265" y="433" as="targetPoint" />
+            <mxPoint x="678" y="243.625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="GIMjqsVZ1iljGTdgzD-q-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1215" y="483" as="sourcePoint" />
-            <mxPoint x="1355" y="393" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-24" value="BAPI Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1380" y="393" width="110" height="30" as="geometry" />
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-24" value="Syncronous BAPI Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="323" y="371.75" width="169" height="26" as="geometry" />
         </mxCell>
         <mxCell id="GIMjqsVZ1iljGTdgzD-q-26" value="BAPI Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1120" y="413" width="110" height="30" as="geometry" />
+          <mxGeometry x="-30" y="426.25" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GIMjqsVZ1iljGTdgzD-q-31" value="3" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-66" y="303" width="20" height="20" as="geometry" />
@@ -300,13 +291,13 @@
           <mxGeometry x="-66" y="364.75" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GIMjqsVZ1iljGTdgzD-q-33" value="5" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1425" y="333" width="20" height="20" as="geometry" />
+          <mxGeometry x="303" y="303" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GIMjqsVZ1iljGTdgzD-q-34" value="6" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1425" y="423" width="20" height="20" as="geometry" />
+          <mxGeometry x="303" y="375.75" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GIMjqsVZ1iljGTdgzD-q-35" value="7" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="443" width="20" height="20" as="geometry" />
+          <mxGeometry x="-66" y="436.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GIMjqsVZ1iljGTdgzD-q-36" value="8" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-387" y="730" width="20" height="20" as="geometry" />
@@ -458,21 +449,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="quk_8OWWMuUo5t2t7b0N-17" value="" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="96" y="251" width="191" height="321.5" as="geometry" />
+          <mxGeometry x="96" y="257.5" width="191" height="304.5" as="geometry" />
         </mxCell>
         <mxCell id="quk_8OWWMuUo5t2t7b0N-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://swimburger.net/media/ppnn3pcl/azure.png;" vertex="1" parent="1">
           <mxGeometry x="137" y="355.25" width="109" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="GIMjqsVZ1iljGTdgzD-q-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.002;exitY=0.283;exitDx=0;exitDy=0;entryX=1.001;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" edge="1" target="wco642Hu2zSO8eE-o0sR-28" source="quk_8OWWMuUo5t2t7b0N-17">
+        <mxCell id="GIMjqsVZ1iljGTdgzD-q-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="68" y="305" as="sourcePoint" />
-            <mxPoint x="-92" y="305" as="targetPoint" />
+            <mxPoint x="96" y="347" as="sourcePoint" />
+            <mxPoint x="-126" y="347" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GIMjqsVZ1iljGTdgzD-q-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.002;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="quk_8OWWMuUo5t2t7b0N-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-126" y="409" as="sourcePoint" />
             <mxPoint x="95" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quk_8OWWMuUo5t2t7b0N-21" value="25 Request every 2 Minutes. (4 Queues&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-102" y="388" width="441" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="quk_8OWWMuUo5t2t7b0N-22" value="" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="496" y="247.25" width="191" height="321.5" as="geometry" />
+        </mxCell>
+        <mxCell id="quk_8OWWMuUo5t2t7b0N-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2023/07/SAP-Logo.png;" vertex="1" parent="1">
+          <mxGeometry x="533" y="359" width="140" height="78.75" as="geometry" />
+        </mxCell>
+        <mxCell id="quk_8OWWMuUo5t2t7b0N-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="496" y="398" as="sourcePoint" />
+            <mxPoint x="287" y="401" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quk_8OWWMuUo5t2t7b0N-30" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="96" y="457" as="sourcePoint" />
+            <mxPoint x="-126" y="459" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
